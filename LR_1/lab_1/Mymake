@@ -1,0 +1,13 @@
+CC = g++
+CFLAGS = -Wall -Werror -fPIC -DQT_NO_VERSION_TAGGING
+
+INCLUDE_PATH = /usr/lib/x86_64-linux-gnu/qt5 
+
+
+ALL_O = calculate.o
+
+%.o:%.cpp
+	$(CC) $(CFLAGS) -c -o $@ $^ -I$(INCLUDE_PATH) -L $(INCLUDE_PATH)
+
+app.exe: $(ALL_O)
+	$(CC) -o $@ -I$(INCLUDE_PATH) -L$(INCLUDE_PATH) $^ -DQT_NO_VERSION_TAGGING
