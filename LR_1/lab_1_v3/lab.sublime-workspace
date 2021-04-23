@@ -1,0 +1,1419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clea",
+				"cleanScene\t(MyGraphicView.cpp)"
+			],
+			[
+				"setTe",
+				"setTextColor\tabc"
+			],
+			[
+				"row",
+				"rowCount\t(MyTableModel.cpp)"
+			],
+			[
+				"solve",
+				"solveExist\tabc"
+			],
+			[
+				"penDar",
+				"penDarkBlue\tabc"
+			],
+			[
+				"inser",
+				"insertRows\tabc"
+			],
+			[
+				"ta",
+				"tableChanged\t(MyTableModel.cpp)"
+			],
+			[
+				"max",
+				"max_angle\tabc"
+			],
+			[
+				"Ma",
+				"MakeSingleVector\t(calculate.h)"
+			],
+			[
+				"point",
+				"point_b\tabc"
+			],
+			[
+				"my",
+				"myPicture\t(MyMainWindow.cpp)"
+			],
+			[
+				"draw",
+				"drawPicture\t(MyGraphicView.cpp)"
+			],
+			[
+				"get_",
+				"get_bisector_base\tabc"
+			],
+			[
+				"col",
+				"columnCount\tabc"
+			],
+			[
+				"pop",
+				"pop_front\tfunc"
+			],
+			[
+				"slot",
+				"slotAddPointInTable\t(MyMainWindow.h)"
+			],
+			[
+				"MainWindow",
+				"MyMainWindow\tabc"
+			],
+			[
+				"beginI",
+				"beginInsertRows\tQt Functions"
+			],
+			[
+				"DOWNLOAD",
+				"I-QWebEngineDownloadItem\tQt Class Inst"
+			],
+			[
+				"M",
+				"MyPointsTableModel.h"
+			],
+			[
+				"add",
+				"addWidget\t(main_window v1.h)"
+			],
+			[
+				"ce",
+				"centralwidget\t(main_window v1.h)"
+			],
+			[
+				"get_a",
+				"get_angle_treag_by_points\tabc"
+			],
+			[
+				"get",
+				"get_height_base\tabc"
+			],
+			[
+				"make",
+				"make_one_work_array\tabc"
+			],
+			[
+				"new",
+				"newt_res\tabc"
+			],
+			[
+				"DEBU",
+				"DEBUG2\tabc"
+			],
+			[
+				"li",
+				"line_array\tabc"
+			],
+			[
+				"check_",
+				"check_new_figure\tabc"
+			],
+			[
+				"fi",
+				"figure\tabc"
+			],
+			[
+				"dra",
+				"drawing_object\tabc"
+			],
+			[
+				"cha",
+				"change_to_green_colour\t(help_classes.py)"
+			],
+			[
+				"bg",
+				"bg_passive\tabc"
+			],
+			[
+				"co",
+				"colour\tabc"
+			],
+			[
+				"MOUSE",
+				"MOUSEBUTTONDOWN\t(help_classes.py)"
+			],
+			[
+				"EM",
+				"EmptyClass\tabc"
+			],
+			[
+				"comm",
+				"command_down\tabc"
+			],
+			[
+				"new_",
+				"new_figure\tabc"
+			],
+			[
+				"chec",
+				"check_figure_to_do_static\tabc"
+			],
+			[
+				"right",
+				"right_rotate_form\tabc"
+			],
+			[
+				"coordinate",
+				"coordinates\tabc"
+			],
+			[
+				"make_",
+				"make_points_from_coordinates_and_form\tabc"
+			],
+			[
+				"figure",
+				"figure_width\tabc"
+			],
+			[
+				"output",
+				"output_data\tabc"
+			],
+			[
+				"sort",
+				"sorted_data\tabc"
+			],
+			[
+				"output_",
+				"output_tree_as_dot\tabc"
+			],
+			[
+				"on",
+				"one_test\tabc"
+			],
+			[
+				"create",
+				"create_array\t(connectivity.c)"
+			],
+			[
+				"calcula",
+				"calculate_edges\tabc"
+			],
+			[
+				"outp",
+				"output_stack\tabc"
+			],
+			[
+				"a",
+				"array_pop\tabc"
+			],
+			[
+				"element",
+				"elements\tabc"
+			],
+			[
+				"peak",
+				"peaks_array_t\tabc"
+			],
+			[
+				"stack",
+				"stack_t\tabc"
+			],
+			[
+				"delete",
+				"delete_stack\t(types_work.c)"
+			],
+			[
+				"CONN",
+				"CONNECT_FALSE\t(common.h)"
+			],
+			[
+				"calculate",
+				"calculate_peaks_count\tabc"
+			],
+			[
+				"dete",
+				"delete_graph\tabc"
+			],
+			[
+				"peaks_a",
+				"peaks_array_t\t(types_work.c)"
+			],
+			[
+				"peaks",
+				"peaks_array\t(common.h)"
+			],
+			[
+				"add_",
+				"add_peaks\tabc"
+			],
+			[
+				"m",
+				"max_peak_name\tabc"
+			],
+			[
+				"ERR_",
+				"ERR_WORK\tabc"
+			],
+			[
+				"out",
+				"output_graph\t(types_work.c)"
+			],
+			[
+				"edges_",
+				"edges_count\tabc"
+			],
+			[
+				"read_",
+				"read_file\t(read_file.c)"
+			],
+			[
+				"edges_ar",
+				"edges_array_t\t(types_work.c)"
+			],
+			[
+				"edges",
+				"edges_count\tabc"
+			],
+			[
+				"edge",
+				"edges\tabc"
+			],
+			[
+				"delete_",
+				"delete_edges_array\tabc"
+			],
+			[
+				"create_",
+				"create_edges_array\tabc"
+			],
+			[
+				"edges_arra",
+				"edges_array_t\tabc"
+			],
+			[
+				"memory",
+				"memory_work.h\t(Makefile)"
+			],
+			[
+				"FLAG_",
+				"FLAG_BLUE\tabc"
+			],
+			[
+				"F",
+				"FLAG_BLUE\t(common.h)"
+			],
+			[
+				"peak_",
+				"peak_name_t\tabc"
+			],
+			[
+				"FLAG",
+				"FLAG_BLACK\t(common.h)"
+			],
+			[
+				"name",
+				"name_end\tabc"
+			],
+			[
+				"pe",
+				"peaks\tabc"
+			],
+			[
+				"outpu",
+				"output_peak\tabc"
+			],
+			[
+				"mw_",
+				"mw_put_arr_from_matrix\t(matrix_work.c)"
+			],
+			[
+				"mw",
+				"mw_get_arr_from_matrix\t(matrix_work.c)"
+			],
+			[
+				"crea",
+				"create_array\t(matrix.h)"
+			],
+			[
+				"ERR",
+				"ERR_WORK\t(matrix.h)"
+			],
+			[
+				"matrix",
+				"matrix.h\t(matrix.c)"
+			],
+			[
+				"MATRIX",
+				"MATRIX_WORK_H\tabc"
+			],
+			[
+				"test_s_",
+				"test_s_and_hx\tabc"
+			],
+			[
+				"com",
+				"compare_int\tabc"
+			],
+			[
+				"count",
+				"count_writing_symbols\tabc"
+			],
+			[
+				"test_all_",
+				"test_all_null\tabc"
+			],
+			[
+				"ou",
+				"output_int\tabc"
+			],
+			[
+				"test_val",
+				"test_val_null\tabc"
+			],
+			[
+				"delete_list",
+				"delete_list_without_elements\t(list_work.h)"
+			],
+			[
+				"dele",
+				"delete_list\t(list_work.h)"
+			],
+			[
+				"polinom_e",
+				"polinom_element_t\t(struct_work.h)"
+			],
+			[
+				"struct",
+				"struct_work.h\t(list_work.h)"
+			],
+			[
+				"added",
+				"added_number\tabc"
+			],
+			[
+				"ne",
+				"new_node\tabc"
+			],
+			[
+				"del",
+				"del_node\tabc"
+			],
+			[
+				"calculate_",
+				"calculate_derivative\t(calculate.c)"
+			],
+			[
+				"ouptu",
+				"output_list\t(list_work.c)"
+			],
+			[
+				"input",
+				"input_a\t(stdin_work.c)"
+			],
+			[
+				"poli",
+				"polinom_element_t\t(struct_work.c)"
+			],
+			[
+				"polinom",
+				"polinom_element_t\tabc"
+			],
+			[
+				"polinom_",
+				"polinom_element_t\tabc"
+			],
+			[
+				"de",
+				"degree\tabc"
+			],
+			[
+				"pop_",
+				"pop_back\t(list_work.c)"
+			],
+			[
+				"compare",
+				"compare_names\t(struct_work.c)"
+			],
+			[
+				"read",
+				"read_file\t(file_work.c)"
+			],
+			[
+				"arr",
+				"array\tabc"
+			],
+			[
+				"task",
+				"task_arr_t\tabc"
+			],
+			[
+				"task_",
+				"task_arr_t\t(file_work.c)"
+			],
+			[
+				"task_arr",
+				"task_arr_t\t(struct_work.c)"
+			],
+			[
+				"pri",
+				"priority\tabc"
+			],
+			[
+				"w",
+				"word\tabc"
+			],
+			[
+				"node",
+				"node_t\tabc"
+			],
+			[
+				"ALL_",
+				"ALL_O\tabc"
+			],
+			[
+				"return",
+				"return_node\tabc"
+			],
+			[
+				"new_el",
+				"new_element\tabc"
+			],
+			[
+				"hash",
+				"hash_work.h\t(hash_create.c)"
+			],
+			[
+				"free",
+				"free_tree\t(tree_common.c)"
+			],
+			[
+				"data",
+				"data_node_t\tabc"
+			],
+			[
+				"hash_ta",
+				"hash_table_t\tabc"
+			],
+			[
+				"hash_tabl",
+				"hash_table_element\tabc"
+			],
+			[
+				"c",
+				"common.h\t(Makefile)"
+			],
+			[
+				"ALL_H",
+				"ALL_HASH_I\tabc"
+			],
+			[
+				"HASH",
+				"ALL_HASH_O"
+			],
+			[
+				"test",
+				"test_trees_time.txt\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04) 9.2\nCopyright (C) 2020 Free Software Foundation, Inc.\nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.\nType \"show copying\" and \"show warranty\" for details.\nThis GDB was configured as \"x86_64-linux-gnu\".\nType \"show configuration\" for configuration details.\nFor bug reporting instructions, please see:\n<http://www.gnu.org/software/gdb/bugs/>.\nFind the GDB manual and other documentation resources online at:\n    <http://www.gnu.org/software/gdb/documentation/>.\n\nFor help, type \"help\".\nType \"apropos word\" to search for commands related to \"word\"...\nReading symbols from ./lab_1_v3...\n&\"warning: GDB: Failed to set controlling terminal: \\320\\235\\320\\265\\320\\277\\321\\200\\320\\270\\320\\274\\320\\265\\320\\275\\320\\270\\320\\274\\321\\213\\320\\271 \\320\\272 \\320\\264\\320\\260\\320\\275\\320\\275\\320\\276\\320\\274\\321\\203 \\321\\203\\321\\201\\321\\202\\321\\200\\320\\276\\320\\271\\321\\201\\321\\202\\320\\262\\321\\203 ioctl\\n\"\n[Thread debugging using libthread_db enabled]\nUsing host libthread_db library \"/lib/x86_64-linux-gnu/libthread_db.so.1\".\n[New Thread 0x7ffff2f5f700 (LWP 102115)]\n[New Thread 0x7ffff1326700 (LWP 102158)]\n[New Thread 0x7ffff0b25700 (LWP 102161)]\n[New Thread 0x7fffe3fff700 (LWP 102198)]\nQObject::connect: No such signal QPushButton::triggered() in src/MyMainWindow.cpp:16\nQObject::connect:  (sender name:   'pushButton')\nQObject::connect:  (receiver name: 'MainWindow')\n[New Thread 0x7fffe16c5700 (LWP 102231)]\n[New Thread 0x7fffe0ec4700 (LWP 102232)]\n[New Thread 0x7fffd796b700 (LWP 102234)]\n[New Thread 0x7fffd716a700 (LWP 102235)]\n[New Thread 0x7fffd6969700 (LWP 102252)]\n[New Thread 0x7fffd6168700 (LWP 102257)]\n[New Thread 0x7fffd5967700 (LWP 102259)]\n[New Thread 0x7fffd5166700 (LWP 102261)]\n[New Thread 0x7fffd4965700 (LWP 102263)]\n[New Thread 0x7fffaf70f700 (LWP 102279)]\n[New Thread 0x7fffaebed700 (LWP 102297)]\n[Thread 0x7fffd5967700 (LWP 102259) exited]\n[Thread 0x7fffd4965700 (LWP 102263) exited]\n[Thread 0x7fffd6168700 (LWP 102257) exited]\n[Thread 0x7fffd6969700 (LWP 102252) exited]\n[New Thread 0x7fffd6969700 (LWP 102313)]\n\nThread 1 \"lab_1_v3\" hit Breakpoint 2, MyGraphicView::drawPicture (this=0x555555d0e2a0) at src/MyGraphicView.cpp:197\n197\t{\n",
+			"settings":
+			{
+				"buffer_size": 2333,
+				"line_ending": "Unix",
+				"name": "GDB Console",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "+MyGraphicView * const this = 0x555555d0e2a0\n qreal x1 = 6.9533558072729552e-310\n qreal x2 = 4.6355709386049168e-310\n qreal x3 = 2.1219900914239819e-314\n qreal y1 = 4.6355712145710144e-310\n qreal y2 = 0\n qreal y3 = 0\n qreal x_max = 4.6355705408193255e-310\n qreal x_min = 6.9533558072761173e-310\n qreal y_max = 6.9533558072753268e-310\n qreal y_min = 6.9533558072745363e-310\n qreal scale = 6.9533558072737457e-310\n qreal x4 = 0\n qreal y4 = 4.6355712145710144e-310\n qreal x5 = 6.9533558072666312e-310\n qreal y5 = 4.6355705405948221e-310\n+QSize cur_size = {...}\n int width = 21845\n int height = 0\n int space = 0\n",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix",
+				"name": "GDB Variables",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "1345-gdb-show interpreter\n=thread-group-added,id=\"i1\"\n~\"GNU gdb (Ubuntu 9.2-0ubuntu1~20.04) 9.2\\n\"\n~\"Copyright (C) 2020 Free Software Foundation, Inc.\\n\"\n~\"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\\nThis is free software: you are free to change and redistribute it.\\nThere is NO WARRANTY, to the extent permitted by law.\"\n~\"\\nType \\\"show copying\\\" and \\\"show warranty\\\" for details.\\n\"\n~\"This GDB was configured as \\\"x86_64-linux-gnu\\\".\\n\"\n~\"Type \\\"show configuration\\\" for configuration details.\\n\"\n~\"For bug reporting instructions, please see:\\n\"\n~\"<http://www.gnu.org/software/gdb/bugs/>.\\n\"\n~\"Find the GDB manual and other documentation resources online at:\\n    <http://www.gnu.org/software/gdb/documentation/>.\"\n~\"\\n\\n\"\n~\"For help, type \\\"help\\\".\\n\"\n~\"Type \\\"apropos word\\\" to search for commands related to \\\"word\\\"...\\n\"\n~\"Reading symbols from ./lab_1_v3...\\n\"\n(gdb)\n1345^error,msg=\"Undefined show command: \\\"interpreter\\\".  Try \\\"help show\\\".\"\n(gdb)\n1346-inferior-tty-set /tmp/tmpkx0899\n1346^done\n(gdb)\n1347-enable-pretty-printing\n1348-gdb-set target-async 1\n1347^done\n1349-gdb-set pagination off\n(gdb)\n1348^done\n(gdb)\n1349^done\n1350-gdb-set disassembly-flavor intel\n(gdb)\n1350^done\n(gdb)\n1351-break-insert \"\\\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\\\":24\"\n1351^done,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000000000000ba87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n(gdb)\n1352-break-insert \"\\\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp\\\":236\"\n1352^done,bkpt={number=\"2\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x00000000000105cb\",func=\"MyGraphicView::drawPicture()\",file=\"src/MyGraphicView.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp\",line=\"236\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp:236\"}\n(gdb)\n1353-exec-run\n=thread-group-started,id=\"i1\",pid=\"133089\"\n=thread-created,id=\"1\",group-id=\"i1\"\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n=breakpoint-modified,bkpt={number=\"2\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x00005555555645cb\",func=\"MyGraphicView::drawPicture()\",file=\"src/MyGraphicView.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp\",line=\"236\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp:236\"}\n=library-loaded,id=\"/lib64/ld-linux-x86-64.so.2\",target-name=\"/lib64/ld-linux-x86-64.so.2\",host-name=\"/lib64/ld-linux-x86-64.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7fd0100\",to=\"0x00007ffff7ff25e4\"}]\n1353^running\n*running,thread-id=\"all\"\n(gdb)\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",target-name=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",host-name=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7a71700\",to=\"0x00007ffff7e232d9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",target-name=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",host-name=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7405090\",to=\"0x00007ffff7819076\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",target-name=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",host-name=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff6e632c0\",to=\"0x00007ffff7141962\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libstdc++.so.6\",target-name=\"/lib/x86_64-linux-gnu/libstdc++.so.6\",host-name=\"/lib/x86_64-linux-gnu/libstdc++.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff6c9c1a0\",to=\"0x00007ffff6d83e32\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libm.so.6\",target-name=\"/lib/x86_64-linux-gnu/libm.so.6\",host-name=\"/lib/x86_64-linux-gnu/libm.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff6abe3c0\",to=\"0x00007ffff6b64f28\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",target-name=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",host-name=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff6a975e0\",to=\"0x00007ffff6aa8045\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libc.so.6\",target-name=\"/lib/x86_64-linux-gnu/libc.so.6\",host-name=\"/lib/x86_64-linux-gnu/libc.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff68c5630\",to=\"0x00007ffff6a3a21f\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpthread.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpthread.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpthread.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff6884ae0\",to=\"0x00007ffff68944d5\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libGL.so.1\",target-name=\"/lib/x86_64-linux-gnu/libGL.so.1\",host-name=\"/lib/x86_64-linux-gnu/libGL.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff68381c0\",to=\"0x00007ffff683b01d\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpng16.so.16\",target-name=\"/lib/x86_64-linux-gnu/libpng16.so.16\",host-name=\"/lib/x86_64-linux-gnu/libpng16.so.16\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff67c2510\",to=\"0x00007ffff67e629d\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libz.so.1\",target-name=\"/lib/x86_64-linux-gnu/libz.so.1\",host-name=\"/lib/x86_64-linux-gnu/libz.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff67a3280\",to=\"0x00007ffff67b3e2b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libharfbuzz.so.0\",target-name=\"/lib/x86_64-linux-gnu/libharfbuzz.so.0\",host-name=\"/lib/x86_64-linux-gnu/libharfbuzz.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff66a5c70\",to=\"0x00007ffff676c182\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libicui18n.so.66\",target-name=\"/lib/x86_64-linux-gnu/libicui18n.so.66\",host-name=\"/lib/x86_64-linux-gnu/libicui18n.so.66\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff6488ae0\",to=\"0x00007ffff660017b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libicuuc.so.66\",target-name=\"/lib/x86_64-linux-gnu/libicuuc.so.66\",host-name=\"/lib/x86_64-linux-gnu/libicuuc.so.66\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff621a920\",to=\"0x00007ffff62fe897\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdl.so.2\",target-name=\"/lib/x86_64-linux-gnu/libdl.so.2\",host-name=\"/lib/x86_64-linux-gnu/libdl.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff61b0220\",to=\"0x00007ffff61b1179\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpcre2-16.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpcre2-16.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpcre2-16.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff612e2c0\",to=\"0x00007ffff6184e29\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdouble-conversion.so.3\",target-name=\"/lib/x86_64-linux-gnu/libdouble-conversion.so.3\",host-name=\"/lib/x86_64-linux-gnu/libdouble-conversion.so.3\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff61181a0\",to=\"0x00007ffff6123170\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff600ab40\",to=\"0x00007ffff608cb62\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libGLdispatch.so.0\",target-name=\"/lib/x86_64-linux-gnu/libGLdispatch.so.0\",host-name=\"/lib/x86_64-linux-gnu/libGLdispatch.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff5f73240\",to=\"0x00007ffff5f754eb\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libGLX.so.0\",target-name=\"/lib/x86_64-linux-gnu/libGLX.so.0\",host-name=\"/lib/x86_64-linux-gnu/libGLX.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff5f02700\",to=\"0x00007ffff5f1c48c\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libfreetype.so.6\",target-name=\"/lib/x86_64-linux-gnu/libfreetype.so.6\",host-name=\"/lib/x86_64-linux-gnu/libfreetype.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff5e4c790\",to=\"0x00007ffff5ecb205\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgraphite2.so.3\",target-name=\"/lib/x86_64-linux-gnu/libgraphite2.so.3\",host-name=\"/lib/x86_64-linux-gnu/libgraphite2.so.3\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff5e16280\",to=\"0x00007ffff5e37182\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libicudata.so.66\",target-name=\"/lib/x86_64-linux-gnu/libicudata.so.66\",host-name=\"/lib/x86_64-linux-gnu/libicudata.so.66\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff4353040\",to=\"0x00007ffff43530f9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpcre.so.3\",target-name=\"/lib/x86_64-linux-gnu/libpcre.so.3\",host-name=\"/lib/x86_64-linux-gnu/libpcre.so.3\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff42df2a0\",to=\"0x00007ffff432f86d\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libX11.so.6\",target-name=\"/lib/x86_64-linux-gnu/libX11.so.6\",host-name=\"/lib/x86_64-linux-gnu/libX11.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff41b90c0\",to=\"0x00007ffff42425b6\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb.so.1\",target-name=\"/lib/x86_64-linux-gnu/libxcb.so.1\",host-name=\"/lib/x86_64-linux-gnu/libxcb.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff4181620\",to=\"0x00007ffff4194699\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXau.so.6\",target-name=\"/lib/x86_64-linux-gnu/libXau.so.6\",host-name=\"/lib/x86_64-linux-gnu/libXau.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff4171360\",to=\"0x00007ffff4172052\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXdmcp.so.6\",target-name=\"/lib/x86_64-linux-gnu/libXdmcp.so.6\",host-name=\"/lib/x86_64-linux-gnu/libXdmcp.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff416a1a0\",to=\"0x00007ffff416ba03\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libbsd.so.0\",target-name=\"/lib/x86_64-linux-gnu/libbsd.so.0\",host-name=\"/lib/x86_64-linux-gnu/libbsd.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff4150e40\",to=\"0x00007ffff415ee69\"}]\n~\"[Thread debugging using libthread_db enabled]\\n\"\n~\"Using host libthread_db library \\\"/lib/x86_64-linux-gnu/libthread_db.so.1\\\".\\n\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqxcb.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqxcb.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqxcb.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7fc5240\",to=\"0x00007ffff7fc55b1\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",target-name=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",host-name=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3a6ba20\",to=\"0x00007ffff3b4c9e9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libfontconfig.so.1\",target-name=\"/lib/x86_64-linux-gnu/libfontconfig.so.1\",host-name=\"/lib/x86_64-linux-gnu/libfontconfig.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff39e7fc0\",to=\"0x00007ffff3a0b28e\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libQt5DBus.so.5\",target-name=\"/lib/x86_64-linux-gnu/libQt5DBus.so.5\",host-name=\"/lib/x86_64-linux-gnu/libQt5DBus.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff395b420\",to=\"0x00007ffff39c4a05\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libX11-xcb.so.1\",target-name=\"/lib/x86_64-linux-gnu/libX11-xcb.so.1\",host-name=\"/lib/x86_64-linux-gnu/libX11-xcb.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7fbf040\",to=\"0x00007ffff7fbf11f\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-xinput.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-xinput.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-xinput.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff392e140\",to=\"0x00007ffff393a3c9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-icccm.so.4\",target-name=\"/lib/x86_64-linux-gnu/libxcb-icccm.so.4\",host-name=\"/lib/x86_64-linux-gnu/libxcb-icccm.so.4\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7fb90d0\",to=\"0x00007ffff7fb9ff9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-image.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-image.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-image.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff371c080\",to=\"0x00007ffff371d873\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-shm.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-shm.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-shm.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff7fb30e0\",to=\"0x00007ffff7fb3c37\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-keysyms.so.1\",target-name=\"/lib/x86_64-linux-gnu/libxcb-keysyms.so.1\",host-name=\"/lib/x86_64-linux-gnu/libxcb-keysyms.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3717140\",to=\"0x00007ffff37179e6\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-randr.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-randr.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-randr.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff370a0c0\",to=\"0x00007ffff370f105\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-render-util.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-render-util.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-render-util.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36fe400\",to=\"0x00007ffff36ff25a\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-render.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-render.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-render.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36f2120\",to=\"0x00007ffff36f6f52\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-shape.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-shape.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-shape.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36e90a0\",to=\"0x00007ffff36e9cf9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-sync.so.1\",target-name=\"/lib/x86_64-linux-gnu/libxcb-sync.so.1\",host-name=\"/lib/x86_64-linux-gnu/libxcb-sync.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36e1100\",to=\"0x00007ffff36e3416\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-xfixes.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-xfixes.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-xfixes.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36d70a0\",to=\"0x00007ffff36d98de\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-xinerama.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-xinerama.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-xinerama.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36d00a0\",to=\"0x00007ffff36d07e9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-xkb.so.1\",target-name=\"/lib/x86_64-linux-gnu/libxcb-xkb.so.1\",host-name=\"/lib/x86_64-linux-gnu/libxcb-xkb.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff36bb120\",to=\"0x00007ffff36c7349\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXrender.so.1\",target-name=\"/lib/x86_64-linux-gnu/libXrender.so.1\",host-name=\"/lib/x86_64-linux-gnu/libXrender.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff34a8a60\",to=\"0x00007ffff34aeab5\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libSM.so.6\",target-name=\"/lib/x86_64-linux-gnu/libSM.so.6\",host-name=\"/lib/x86_64-linux-gnu/libSM.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff349e270\",to=\"0x00007ffff34a215b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libICE.so.6\",target-name=\"/lib/x86_64-linux-gnu/libICE.so.6\",host-name=\"/lib/x86_64-linux-gnu/libICE.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3483a40\",to=\"0x00007ffff349155a\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxkbcommon-x11.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxkbcommon-x11.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxkbcommon-x11.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3476ba0\",to=\"0x00007ffff34793bf\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxkbcommon.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxkbcommon.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxkbcommon.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3435560\",to=\"0x00007ffff3450703\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libexpat.so.1\",target-name=\"/lib/x86_64-linux-gnu/libexpat.so.1\",host-name=\"/lib/x86_64-linux-gnu/libexpat.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3407230\",to=\"0x00007ffff34224b7\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libuuid.so.1\",target-name=\"/lib/x86_64-linux-gnu/libuuid.so.1\",host-name=\"/lib/x86_64-linux-gnu/libuuid.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff33fc580\",to=\"0x00007ffff33fff71\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdbus-1.so.3\",target-name=\"/lib/x86_64-linux-gnu/libdbus-1.so.3\",host-name=\"/lib/x86_64-linux-gnu/libdbus-1.so.3\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff33b4eb0\",to=\"0x00007ffff33e1915\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-util.so.1\",target-name=\"/lib/x86_64-linux-gnu/libxcb-util.so.1\",host-name=\"/lib/x86_64-linux-gnu/libxcb-util.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff31a5560\",to=\"0x00007ffff31a630c\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libsystemd.so.0\",target-name=\"/lib/x86_64-linux-gnu/libsystemd.so.0\",host-name=\"/lib/x86_64-linux-gnu/libsystemd.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3106df0\",to=\"0x00007ffff3178940\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/librt.so.1\",target-name=\"/lib/x86_64-linux-gnu/librt.so.1\",host-name=\"/lib/x86_64-linux-gnu/librt.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff30ee720\",to=\"0x00007ffff30f1d70\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/liblzma.so.5\",target-name=\"/lib/x86_64-linux-gnu/liblzma.so.5\",host-name=\"/lib/x86_64-linux-gnu/liblzma.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff30c53c0\",to=\"0x00007ffff30dc3a6\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/liblz4.so.1\",target-name=\"/lib/x86_64-linux-gnu/liblz4.so.1\",host-name=\"/lib/x86_64-linux-gnu/liblz4.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff30a3120\",to=\"0x00007ffff30bc88b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgcrypt.so.20\",target-name=\"/lib/x86_64-linux-gnu/libgcrypt.so.20\",host-name=\"/lib/x86_64-linux-gnu/libgcrypt.so.20\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff2f8f580\",to=\"0x00007ffff305c9dc\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgpg-error.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgpg-error.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgpg-error.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff2f64c60\",to=\"0x00007ffff2f76a92\"}]\n=thread-created,id=\"2\",group-id=\"i1\"\n~\"[New Thread 0x7ffff2f5f700 (LWP 133161)]\\n\"\n*running,thread-id=\"2\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXcursor.so.1\",target-name=\"/lib/x86_64-linux-gnu/libXcursor.so.1\",host-name=\"/lib/x86_64-linux-gnu/libXcursor.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff2755660\",to=\"0x00007ffff275a288\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXfixes.so.3\",target-name=\"/lib/x86_64-linux-gnu/libXfixes.so.3\",host-name=\"/lib/x86_64-linux-gnu/libXfixes.so.3\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff274c300\",to=\"0x00007ffff274e6ea\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libqgtk3.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libqgtk3.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libqgtk3.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff26fa400\",to=\"0x00007ffff2735ebd\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgtk-3.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgtk-3.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgtk-3.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1fcadf0\",to=\"0x00007ffff2327e96\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgdk-3.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgdk-3.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgdk-3.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1e5f2d0\",to=\"0x00007ffff1ed938b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpango-1.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpango-1.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpango-1.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1df08c0\",to=\"0x00007ffff1e13d14\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgobject-2.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgobject-2.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgobject-2.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1d8ee40\",to=\"0x00007ffff1dc3bee\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgmodule-2.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgmodule-2.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgmodule-2.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1d7b440\",to=\"0x00007ffff1d7c323\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1d6e620\",to=\"0x00007ffff1d74230\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXi.so.6\",target-name=\"/lib/x86_64-linux-gnu/libXi.so.6\",host-name=\"/lib/x86_64-linux-gnu/libXi.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1d58460\",to=\"0x00007ffff1d62d1b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libcairo-gobject.so.2\",target-name=\"/lib/x86_64-linux-gnu/libcairo-gobject.so.2\",host-name=\"/lib/x86_64-linux-gnu/libcairo-gobject.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1d4e100\",to=\"0x00007ffff1d4f26d\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libcairo.so.2\",target-name=\"/lib/x86_64-linux-gnu/libcairo.so.2\",host-name=\"/lib/x86_64-linux-gnu/libcairo.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1c3bcc0\",to=\"0x00007ffff1d07487\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1c06660\",to=\"0x00007ffff1c1b223\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libatk-1.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libatk-1.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libatk-1.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1be0d40\",to=\"0x00007ffff1beea8f\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1bacff0\",to=\"0x00007ffff1bc2022\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libepoxy.so.0\",target-name=\"/lib/x86_64-linux-gnu/libepoxy.so.0\",host-name=\"/lib/x86_64-linux-gnu/libepoxy.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1acb220\",to=\"0x00007ffff1b3019e\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libfribidi.so.0\",target-name=\"/lib/x86_64-linux-gnu/libfribidi.so.0\",host-name=\"/lib/x86_64-linux-gnu/libfribidi.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1a50100\",to=\"0x00007ffff1a53026\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgio-2.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libgio-2.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libgio-2.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff18ac280\",to=\"0x00007ffff19b70b6\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff185cde0\",to=\"0x00007ffff1865c1f\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXinerama.so.1\",target-name=\"/lib/x86_64-linux-gnu/libXinerama.so.1\",host-name=\"/lib/x86_64-linux-gnu/libXinerama.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff18500f0\",to=\"0x00007ffff1850a31\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXrandr.so.2\",target-name=\"/lib/x86_64-linux-gnu/libXrandr.so.2\",host-name=\"/lib/x86_64-linux-gnu/libXrandr.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1844360\",to=\"0x00007ffff184a6b9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXcomposite.so.1\",target-name=\"/lib/x86_64-linux-gnu/libXcomposite.so.1\",host-name=\"/lib/x86_64-linux-gnu/libXcomposite.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff183e140\",to=\"0x00007ffff183eb85\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXdamage.so.1\",target-name=\"/lib/x86_64-linux-gnu/libXdamage.so.1\",host-name=\"/lib/x86_64-linux-gnu/libXdamage.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff18391a0\",to=\"0x00007ffff1839b1b\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libwayland-cursor.so.0\",target-name=\"/lib/x86_64-linux-gnu/libwayland-cursor.so.0\",host-name=\"/lib/x86_64-linux-gnu/libwayland-cursor.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff182f460\",to=\"0x00007ffff1830ff7\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libwayland-egl.so.1\",target-name=\"/lib/x86_64-linux-gnu/libwayland-egl.so.1\",host-name=\"/lib/x86_64-linux-gnu/libwayland-egl.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1829080\",to=\"0x00007ffff1829219\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libwayland-client.so.0\",target-name=\"/lib/x86_64-linux-gnu/libwayland-client.so.0\",host-name=\"/lib/x86_64-linux-gnu/libwayland-client.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff181c5c0\",to=\"0x00007ffff1821345\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXext.so.6\",target-name=\"/lib/x86_64-linux-gnu/libXext.so.6\",host-name=\"/lib/x86_64-linux-gnu/libXext.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff18065e0\",to=\"0x00007ffff181084e\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libthai.so.0\",target-name=\"/lib/x86_64-linux-gnu/libthai.so.0\",host-name=\"/lib/x86_64-linux-gnu/libthai.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff17f9320\",to=\"0x00007ffff17fce87\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libffi.so.7\",target-name=\"/lib/x86_64-linux-gnu/libffi.so.7\",host-name=\"/lib/x86_64-linux-gnu/libffi.so.7\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff17ed230\",to=\"0x00007ffff17f2a46\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpixman-1.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpixman-1.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpixman-1.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff174e300\",to=\"0x00007ffff17d1384\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libatspi.so.0\",target-name=\"/lib/x86_64-linux-gnu/libatspi.so.0\",host-name=\"/lib/x86_64-linux-gnu/libatspi.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff171db60\",to=\"0x00007ffff1731b5c\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libmount.so.1\",target-name=\"/lib/x86_64-linux-gnu/libmount.so.1\",host-name=\"/lib/x86_64-linux-gnu/libmount.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff16b9b80\",to=\"0x00007ffff16f5b52\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libselinux.so.1\",target-name=\"/lib/x86_64-linux-gnu/libselinux.so.1\",host-name=\"/lib/x86_64-linux-gnu/libselinux.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1689040\",to=\"0x00007ffff16a04fd\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libresolv.so.2\",target-name=\"/lib/x86_64-linux-gnu/libresolv.so.2\",host-name=\"/lib/x86_64-linux-gnu/libresolv.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff166a720\",to=\"0x00007ffff167911c\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdatrie.so.1\",target-name=\"/lib/x86_64-linux-gnu/libdatrie.so.1\",host-name=\"/lib/x86_64-linux-gnu/libdatrie.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff165e220\",to=\"0x00007ffff1661730\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libblkid.so.1\",target-name=\"/lib/x86_64-linux-gnu/libblkid.so.1\",host-name=\"/lib/x86_64-linux-gnu/libblkid.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff1610680\",to=\"0x00007ffff1644252\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libpcre2-8.so.0\",target-name=\"/lib/x86_64-linux-gnu/libpcre2-8.so.0\",host-name=\"/lib/x86_64-linux-gnu/libpcre2-8.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff15772e0\",to=\"0x00007ffff15dad8e\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3bc57f0\",to=\"0x00007ffff3bc695e\"}]\n=library-unloaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so\",thread-group=\"i1\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff136fba0\",to=\"0x00007ffff137c2bf\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff133b280\",to=\"0x00007ffff1352b89\"}]\n=thread-created,id=\"3\",group-id=\"i1\"\n~\"[New Thread 0x7ffff1326700 (LWP 133204)]\\n\"\n*running,thread-id=\"3\"\n=thread-created,id=\"4\",group-id=\"i1\"\n~\"[New Thread 0x7ffff0b25700 (LWP 133206)]\\n\"\n*running,thread-id=\"4\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff0318510\",to=\"0x00007ffff031e109\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff02fa850\",to=\"0x00007ffff03080f5\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgnutls.so.30\",target-name=\"/lib/x86_64-linux-gnu/libgnutls.so.30\",host-name=\"/lib/x86_64-linux-gnu/libgnutls.so.30\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff0132480\",to=\"0x00007ffff025213a\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libp11-kit.so.0\",target-name=\"/lib/x86_64-linux-gnu/libp11-kit.so.0\",host-name=\"/lib/x86_64-linux-gnu/libp11-kit.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe3ef5be0\",to=\"0x00007fffe3f8e1b0\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libidn2.so.0\",target-name=\"/lib/x86_64-linux-gnu/libidn2.so.0\",host-name=\"/lib/x86_64-linux-gnu/libidn2.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff00e34a0\",to=\"0x00007ffff00e71b2\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libunistring.so.2\",target-name=\"/lib/x86_64-linux-gnu/libunistring.so.2\",host-name=\"/lib/x86_64-linux-gnu/libunistring.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe3d58840\",to=\"0x00007fffe3d8d44f\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libtasn1.so.6\",target-name=\"/lib/x86_64-linux-gnu/libtasn1.so.6\",host-name=\"/lib/x86_64-linux-gnu/libtasn1.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff00ce4a0\",to=\"0x00007ffff00d98a3\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libnettle.so.7\",target-name=\"/lib/x86_64-linux-gnu/libnettle.so.7\",host-name=\"/lib/x86_64-linux-gnu/libnettle.so.7\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff009a0e0\",to=\"0x00007ffff00b77df\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libhogweed.so.5\",target-name=\"/lib/x86_64-linux-gnu/libhogweed.so.5\",host-name=\"/lib/x86_64-linux-gnu/libhogweed.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff0060620\",to=\"0x00007ffff007008f\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgmp.so.10\",target-name=\"/lib/x86_64-linux-gnu/libgmp.so.10\",host-name=\"/lib/x86_64-linux-gnu/libgmp.so.10\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe3cce240\",to=\"0x00007fffe3d2dea4\"}]\n=library-unloaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libgnutls.so.30\",target-name=\"/lib/x86_64-linux-gnu/libgnutls.so.30\",host-name=\"/lib/x86_64-linux-gnu/libgnutls.so.30\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libp11-kit.so.0\",target-name=\"/lib/x86_64-linux-gnu/libp11-kit.so.0\",host-name=\"/lib/x86_64-linux-gnu/libp11-kit.so.0\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libidn2.so.0\",target-name=\"/lib/x86_64-linux-gnu/libidn2.so.0\",host-name=\"/lib/x86_64-linux-gnu/libidn2.so.0\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libunistring.so.2\",target-name=\"/lib/x86_64-linux-gnu/libunistring.so.2\",host-name=\"/lib/x86_64-linux-gnu/libunistring.so.2\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libtasn1.so.6\",target-name=\"/lib/x86_64-linux-gnu/libtasn1.so.6\",host-name=\"/lib/x86_64-linux-gnu/libtasn1.so.6\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libnettle.so.7\",target-name=\"/lib/x86_64-linux-gnu/libnettle.so.7\",host-name=\"/lib/x86_64-linux-gnu/libnettle.so.7\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libhogweed.so.5\",target-name=\"/lib/x86_64-linux-gnu/libhogweed.so.5\",host-name=\"/lib/x86_64-linux-gnu/libhogweed.so.5\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libgmp.so.10\",target-name=\"/lib/x86_64-linux-gnu/libgmp.so.10\",host-name=\"/lib/x86_64-linux-gnu/libgmp.so.10\",thread-group=\"i1\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3bc6550\",to=\"0x00007ffff3bc6dce\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libproxy.so.1\",target-name=\"/lib/x86_64-linux-gnu/libproxy.so.1\",host-name=\"/lib/x86_64-linux-gnu/libproxy.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff02e0cf0\",to=\"0x00007ffff02f2a5e\"}]\n=library-unloaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so\",thread-group=\"i1\"\n=library-unloaded,id=\"/lib/x86_64-linux-gnu/libproxy.so.1\",target-name=\"/lib/x86_64-linux-gnu/libproxy.so.1\",host-name=\"/lib/x86_64-linux-gnu/libproxy.so.1\",thread-group=\"i1\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff02e7d90\",to=\"0x00007ffff0303382\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk-module.so\",target-name=\"/usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk-module.so\",host-name=\"/usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk-module.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff3bc34e0\",to=\"0x00007ffff3bc5584\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0\",target-name=\"/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0\",host-name=\"/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff02bb3f0\",to=\"0x00007ffff02bc9e6\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libcanberra.so.0\",target-name=\"/lib/x86_64-linux-gnu/libcanberra.so.0\",host-name=\"/lib/x86_64-linux-gnu/libcanberra.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff02a93e0\",to=\"0x00007ffff02b2a9a\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libvorbisfile.so.3\",target-name=\"/lib/x86_64-linux-gnu/libvorbisfile.so.3\",host-name=\"/lib/x86_64-linux-gnu/libvorbisfile.so.3\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff029d690\",to=\"0x00007ffff02a1be0\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libtdb.so.1\",target-name=\"/lib/x86_64-linux-gnu/libtdb.so.1\",host-name=\"/lib/x86_64-linux-gnu/libtdb.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff0285860\",to=\"0x00007ffff0292375\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libltdl.so.7\",target-name=\"/lib/x86_64-linux-gnu/libltdl.so.7\",host-name=\"/lib/x86_64-linux-gnu/libltdl.so.7\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff01ed4a0\",to=\"0x00007ffff01f17b6\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libvorbis.so.0\",target-name=\"/lib/x86_64-linux-gnu/libvorbis.so.0\",host-name=\"/lib/x86_64-linux-gnu/libvorbis.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff01c0480\",to=\"0x00007ffff01d6c4d\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libogg.so.0\",target-name=\"/lib/x86_64-linux-gnu/libogg.so.0\",host-name=\"/lib/x86_64-linux-gnu/libogg.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff01b2480\",to=\"0x00007ffff01b6539\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff0198ce0\",to=\"0x00007ffff01a8469\"}]\n=thread-created,id=\"5\",group-id=\"i1\"\n~\"[New Thread 0x7fffe3fff700 (LWP 133244)]\\n\"\n*running,thread-id=\"5\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqgif.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqgif.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqgif.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007ffff0002680\",to=\"0x00007ffff00059c1\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqico.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqico.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqico.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe34d4900\",to=\"0x00007fffe34d7171\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqjpeg.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqjpeg.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqjpeg.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe34c8fa0\",to=\"0x00007fffe34cdc91\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libjpeg.so.8\",target-name=\"/lib/x86_64-linux-gnu/libjpeg.so.8\",host-name=\"/lib/x86_64-linux-gnu/libjpeg.so.8\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe342a540\",to=\"0x00007fffe346d469\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqsvg.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqsvg.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/imageformats/libqsvg.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe34bf8a0\",to=\"0x00007fffe34c0a66\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libQt5Svg.so.5\",target-name=\"/lib/x86_64-linux-gnu/libQt5Svg.so.5\",host-name=\"/lib/x86_64-linux-gnu/libQt5Svg.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe33cd8c0\",to=\"0x00007fffe33fd8a7\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/xcbglintegrations/libqxcb-glx-integration.so\",target-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/xcbglintegrations/libqxcb-glx-integration.so\",host-name=\"/usr/lib/x86_64-linux-gnu/qt5/plugins/xcbglintegrations/libqxcb-glx-integration.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe341a640\",to=\"0x00007fffe34204c5\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-glx.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-glx.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-glx.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe33340a0\",to=\"0x00007fffe333cb29\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libGLX_mesa.so.0\",target-name=\"/lib/x86_64-linux-gnu/libGLX_mesa.so.0\",host-name=\"/lib/x86_64-linux-gnu/libGLX_mesa.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe32c7d60\",to=\"0x00007fffe330aa42\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libglapi.so.0\",target-name=\"/lib/x86_64-linux-gnu/libglapi.so.0\",host-name=\"/lib/x86_64-linux-gnu/libglapi.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe32801a0\",to=\"0x00007fffe328d410\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdrm.so.2\",target-name=\"/lib/x86_64-linux-gnu/libdrm.so.2\",host-name=\"/lib/x86_64-linux-gnu/libdrm.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe3264700\",to=\"0x00007fffe326dad9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-dri2.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-dri2.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-dri2.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe34b70a0\",to=\"0x00007fffe34b8309\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libXxf86vm.so.1\",target-name=\"/lib/x86_64-linux-gnu/libXxf86vm.so.1\",host-name=\"/lib/x86_64-linux-gnu/libXxf86vm.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe34af240\",to=\"0x00007fffe34b19f9\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-dri3.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-dri3.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-dri3.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe325c0e0\",to=\"0x00007fffe325cfd7\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxcb-present.so.0\",target-name=\"/lib/x86_64-linux-gnu/libxcb-present.so.0\",host-name=\"/lib/x86_64-linux-gnu/libxcb-present.so.0\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe32560a0\",to=\"0x00007fffe325697a\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libxshmfence.so.1\",target-name=\"/lib/x86_64-linux-gnu/libxshmfence.so.1\",host-name=\"/lib/x86_64-linux-gnu/libxshmfence.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe3053960\",to=\"0x00007fffe3053c2c\"}]\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/dri/iris_dri.so\",target-name=\"/usr/lib/x86_64-linux-gnu/dri/iris_dri.so\",host-name=\"/usr/lib/x86_64-linux-gnu/dri/iris_dri.so\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe1acaff0\",to=\"0x00007fffe280dab2\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libLLVM-10.so.1\",target-name=\"/lib/x86_64-linux-gnu/libLLVM-10.so.1\",host-name=\"/lib/x86_64-linux-gnu/libLLVM-10.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffd8146210\",to=\"0x00007fffda30fdd3\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libzstd.so.1\",target-name=\"/lib/x86_64-linux-gnu/libzstd.so.1\",host-name=\"/lib/x86_64-linux-gnu/libzstd.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe1930240\",to=\"0x00007fffe19c1d0a\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libsensors.so.5\",target-name=\"/lib/x86_64-linux-gnu/libsensors.so.5\",host-name=\"/lib/x86_64-linux-gnu/libsensors.so.5\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe191e580\",to=\"0x00007fffe1924f68\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdrm_radeon.so.1\",target-name=\"/lib/x86_64-linux-gnu/libdrm_radeon.so.1\",host-name=\"/lib/x86_64-linux-gnu/libdrm_radeon.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe190e2a0\",to=\"0x00007fffe1914b5d\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libelf.so.1\",target-name=\"/lib/x86_64-linux-gnu/libelf.so.1\",host-name=\"/lib/x86_64-linux-gnu/libelf.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe18f3580\",to=\"0x00007fffe1904105\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1\",target-name=\"/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1\",host-name=\"/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe18e7740\",to=\"0x00007fffe18ebdf1\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libdrm_nouveau.so.2\",target-name=\"/lib/x86_64-linux-gnu/libdrm_nouveau.so.2\",host-name=\"/lib/x86_64-linux-gnu/libdrm_nouveau.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe18db3a0\",to=\"0x00007fffe18df0ae\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libvulkan.so.1\",target-name=\"/lib/x86_64-linux-gnu/libvulkan.so.1\",host-name=\"/lib/x86_64-linux-gnu/libvulkan.so.1\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe18926c0\",to=\"0x00007fffe18c3f16\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libedit.so.2\",target-name=\"/lib/x86_64-linux-gnu/libedit.so.2\",host-name=\"/lib/x86_64-linux-gnu/libedit.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe1853fb0\",to=\"0x00007fffe186df24\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libtinfo.so.6\",target-name=\"/lib/x86_64-linux-gnu/libtinfo.so.6\",host-name=\"/lib/x86_64-linux-gnu/libtinfo.so.6\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe18296a0\",to=\"0x00007fffe183717c\"}]\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libnss_files.so.2\",target-name=\"/lib/x86_64-linux-gnu/libnss_files.so.2\",host-name=\"/lib/x86_64-linux-gnu/libnss_files.so.2\",symbols-loaded=\"0\",thread-group=\"i1\",ranges=[{from=\"0x00007fffe180a5c0\",to=\"0x00007fffe1810a1c\"}]\n=thread-created,id=\"6\",group-id=\"i1\"\n~\"[New Thread 0x7fffe16c5700 (LWP 133282)]\\n\"\n*running,thread-id=\"6\"\n=thread-created,id=\"7\",group-id=\"i1\"\n~\"[New Thread 0x7fffe0ec4700 (LWP 133283)]\\n\"\n*running,thread-id=\"7\"\n=thread-created,id=\"8\",group-id=\"i1\"\n~\"[New Thread 0x7fffd796b700 (LWP 133285)]\\n\"\n*running,thread-id=\"8\"\n=thread-created,id=\"9\",group-id=\"i1\"\n~\"[New Thread 0x7fffd716a700 (LWP 133287)]\\n\"\n*running,thread-id=\"9\"\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"1\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n&\"warning: Source file is more recent than executable.\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"3\"\n1354-thread-select 1\n1355-stack-info-frame\n1354^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1355^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1356-stack-list-frames\n1356^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1357-stack-list-arguments 1\n1357^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[]},frame={level=\"2\",args=[]},frame={level=\"3\",args=[]},frame={level=\"4\",args=[]},frame={level=\"5\",args=[]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1358-thread-info\n1358^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"}],current-thread-id=\"1\"\n(gdb)\n1359-thread-list-ids\n1359^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1360-var-delete var1\n1361-var-delete var2\n1360^error,msg=\"Variable object not found\"\n1362-var-delete var3\n(gdb)\n1361^error,msg=\"Variable object not found\"\n1363-var-delete var4\n(gdb)\n1364-stack-list-arguments 0 0 0\n1362^error,msg=\"Variable object not found\"\n(gdb)\n1363^error,msg=\"Variable object not found\"\n(gdb)\n1364^done,stack-args=[frame={level=\"0\",args=[name=\"this\",name=\"event\"]}]\n(gdb)\n1365-var-create - * this\n1365^done,name=\"var1\",numchild=\"3\",value=\"0x555555765d00\",type=\"MyMainWindow * const\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n1366-var-create - * event\n1366^done,name=\"var2\",numchild=\"0\",value=\"0x7fffffffe1a0\",type=\"QKeyEvent *\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n1367-stack-list-locals 0\n1367^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1368-var-create - * parent\n1368^done,name=\"var3\",numchild=\"1\",value=\"{...}\",type=\"const QModelIndex\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n1369-var-create - * row\n1369^done,name=\"var4\",numchild=\"0\",value=\"-2147483648\",type=\"int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n1370-exec-continue\n1370^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"2\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"2\"\n1371-thread-select 1\n1372-stack-info-frame\n1371^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1372^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1373-stack-list-frames\n1373^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1374-stack-list-arguments 1\n1374^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[]},frame={level=\"2\",args=[]},frame={level=\"3\",args=[]},frame={level=\"4\",args=[]},frame={level=\"5\",args=[]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1375-thread-info\n1375^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"24927\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"}],current-thread-id=\"1\"\n(gdb)\n1376-thread-list-ids\n1376^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1377-var-update --all-values *\n1377^done,changelist=[{name=\"var4\",value=\"32767\",in_scope=\"true\",type_changed=\"false\",has_more=\"0\"}]\n(gdb)\n1378-stack-list-locals 0\n1378^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1379-exec-continue\n1379^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"3\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"2\"\n1380-thread-select 1\n1381-stack-info-frame\n1380^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1381^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1382-stack-list-frames\n1382^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"21\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1383-stack-list-arguments 1\n1383^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"2\",args=[]},frame={level=\"3\",args=[]},frame={level=\"4\",args=[]},frame={level=\"5\",args=[]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[]},frame={level=\"21\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1384-thread-info\n1384^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"}],current-thread-id=\"1\"\n(gdb)\n1385-thread-list-ids\n1385^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1386-var-update --all-values *\n1386^done,changelist=[{name=\"var4\",value=\"1\",in_scope=\"true\",type_changed=\"false\",has_more=\"0\"}]\n(gdb)\n1387-stack-list-locals 0\n1387^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1388-exec-continue\n1388^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"4\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"2\"\n1389-thread-select 1\n1390-stack-info-frame\n1389^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1390^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1391-stack-list-frames\n1391^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"21\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"22\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1392-stack-list-arguments 1\n1392^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"3\",args=[]},frame={level=\"4\",args=[]},frame={level=\"5\",args=[]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[]},frame={level=\"21\",args=[]},frame={level=\"22\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1393-thread-info\n1393^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"}],current-thread-id=\"1\"\n(gdb)\n1394-thread-list-ids\n1394^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1395-var-update --all-values *\n1395^done,changelist=[]\n(gdb)\n1396-stack-list-locals 0\n1396^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1397-exec-continue\n1397^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"5\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"3\"\n1398-thread-select 1\n1399-stack-info-frame\n1398^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1399^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1400-stack-list-frames\n1400^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"21\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"22\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"23\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1401-stack-list-arguments 1\n1401^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"3\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"4\",args=[]},frame={level=\"5\",args=[]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[]},frame={level=\"21\",args=[]},frame={level=\"22\",args=[]},frame={level=\"23\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1402-thread-info\n1402^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"}],current-thread-id=\"1\"\n(gdb)\n1403-thread-list-ids\n1403^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1404-var-update --all-values *\n1404^done,changelist=[]\n(gdb)\n1405-stack-list-locals 0\n1405^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1406-exec-continue\n1406^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"6\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"3\"\n1407-thread-select 1\n1408-stack-info-frame\n1407^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1408^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1409-stack-list-frames\n1409^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"21\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"22\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"23\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"24\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1410-stack-list-arguments 1\n1410^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"3\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"4\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"5\",args=[]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[]},frame={level=\"21\",args=[]},frame={level=\"22\",args=[]},frame={level=\"23\",args=[]},frame={level=\"24\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1411-thread-info\n1411^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"}],current-thread-id=\"1\"\n(gdb)\n1412-thread-list-ids\n1412^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1413-var-update --all-values *\n1413^done,changelist=[]\n(gdb)\n1414-stack-list-locals 0\n1414^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1415-exec-continue\n1415^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"7\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"0\"\n1416-thread-select 1\n1417-stack-info-frame\n1416^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1417^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1418-stack-list-frames\n1418^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"21\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"22\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"23\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"24\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"25\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1419-stack-list-arguments 1\n1419^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"3\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"4\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"5\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"6\",args=[]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[]},frame={level=\"21\",args=[]},frame={level=\"22\",args=[]},frame={level=\"23\",args=[]},frame={level=\"24\",args=[]},frame={level=\"25\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1420-thread-info\n1420^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"}],current-thread-id=\"1\"\n(gdb)\n1421-thread-list-ids\n1421^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1422-var-update --all-values *\n1422^done,changelist=[]\n(gdb)\n1423-stack-list-locals 0\n1423^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n1424-exec-continue\n1424^running\n*running,thread-id=\"all\"\n~\"[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\\n\"\n=thread-selected,id=\"9\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent(QKeyEvent*)\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",thread-groups=[\"i1\"],times=\"8\",original-location=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\"}\n~\"\\n\"\n~\"Thread 1 \\\"lab_1_v3\\\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\\n\"\n~\"24\\t    \\tint row = ui->tableView->currentIndex().row();\\n\"\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},thread-id=\"1\",stopped-threads=\"all\",core=\"3\"\n1425-thread-select 1\n1426-stack-info-frame\n1425^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1426^done,frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"}\n(gdb)\n1427-stack-list-frames\n1427^done,stack=[frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},frame={level=\"1\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"2\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"3\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"4\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"5\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"6\",addr=\"0x000055555555fb63\",func=\"MyMainWindow::keyPressEvent\",file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"38\",arch=\"i386:x86-64\"},frame={level=\"7\",addr=\"0x00007ffff7ac077d\",func=\"QWidget::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"8\",addr=\"0x00007ffff7bd5148\",func=\"QMainWindow::event(QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"9\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"10\",addr=\"0x00007ffff7a8781e\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"11\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"12\",addr=\"0x00007ffff7adf216\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"13\",addr=\"0x00007ffff7a7da66\",func=\"QApplicationPrivate::notify_helper(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"14\",addr=\"0x00007ffff7a870f0\",func=\"QApplication::notify(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Widgets.so.5\",arch=\"i386:x86-64\"},frame={level=\"15\",addr=\"0x00007ffff706593a\",func=\"QCoreApplication::notifyInternal2(QObject*, QEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"16\",addr=\"0x00007ffff744ab2b\",func=\"QGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"17\",addr=\"0x00007ffff74500f1\",func=\"QGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"18\",addr=\"0x00007ffff742a35b\",func=\"QWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Gui.so.5\",arch=\"i386:x86-64\"},frame={level=\"19\",addr=\"0x00007ffff3aa032e\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5\",arch=\"i386:x86-64\"},frame={level=\"20\",addr=\"0x00007ffff603efbd\",func=\"g_main_context_dispatch\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"21\",addr=\"0x00007ffff603f240\",func=\"??\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"22\",addr=\"0x00007ffff603f2e3\",func=\"g_main_context_iteration\",from=\"/lib/x86_64-linux-gnu/libglib-2.0.so.0\",arch=\"i386:x86-64\"},frame={level=\"23\",addr=\"0x00007ffff70bd565\",func=\"QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"24\",addr=\"0x00007ffff70644db\",func=\"QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"25\",addr=\"0x00007ffff706c246\",func=\"QCoreApplication::exec()\",from=\"/lib/x86_64-linux-gnu/libQt5Core.so.5\",arch=\"i386:x86-64\"},frame={level=\"26\",addr=\"0x000055555555c2d6\",func=\"main\",file=\"src/main.cpp\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp\",line=\"25\",arch=\"i386:x86-64\"}]\n(gdb)\n1428-stack-list-arguments 1\n1428^done,stack-args=[frame={level=\"0\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"3\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"4\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"5\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"6\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}]},frame={level=\"7\",args=[]},frame={level=\"8\",args=[]},frame={level=\"9\",args=[]},frame={level=\"10\",args=[]},frame={level=\"11\",args=[]},frame={level=\"12\",args=[]},frame={level=\"13\",args=[]},frame={level=\"14\",args=[]},frame={level=\"15\",args=[]},frame={level=\"16\",args=[]},frame={level=\"17\",args=[]},frame={level=\"18\",args=[]},frame={level=\"19\",args=[]},frame={level=\"20\",args=[]},frame={level=\"21\",args=[]},frame={level=\"22\",args=[]},frame={level=\"23\",args=[]},frame={level=\"24\",args=[]},frame={level=\"25\",args=[]},frame={level=\"26\",args=[{name=\"argc\",value=\"1\"},{name=\"argv\",value=\"0x7fffffffe648\"}]}]\n(gdb)\n1429-thread-info\n1429^done,threads=[{id=\"1\",target-id=\"Thread 0x7ffff4147780 (LWP 133089)\",name=\"lab_1_v3\",frame={level=\"0\",addr=\"0x000055555555fa87\",func=\"MyMainWindow::keyPressEvent\",args=[{name=\"this\",value=\"0x555555765d00\"},{name=\"event\",value=\"0x7fffffffe1a0\"}],file=\"src/../inc/MyMainWindow.h\",fullname=\"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h\",line=\"24\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"2\",target-id=\"Thread 0x7ffff2f5f700 (LWP 133161)\",name=\"QXcbEventQueue\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7ffff2f5ed28\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"3\",target-id=\"Thread 0x7ffff1326700 (LWP 133204)\",name=\"gmain\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556af430\"},{name=\"nfds\",value=\"1\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"0\"},{id=\"4\",target-id=\"Thread 0x7ffff0b25700 (LWP 133206)\",name=\"gdbus\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x5555556bc320\"},{name=\"nfds\",value=\"2\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"5\",target-id=\"Thread 0x7fffe3fff700 (LWP 133244)\",name=\"QDBusConnection\",frame={level=\"0\",addr=\"0x00007ffff69b5aff\",func=\"__GI___poll\",args=[{name=\"fds\",value=\"0x7fffdc00f9f0\"},{name=\"nfds\",value=\"4\"},{name=\"timeout\",value=\"-1\"}],file=\"../sysdeps/unix/sysv/linux/poll.c\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/io/../sysdeps/unix/sysv/linux/poll.c\",line=\"29\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"6\",target-id=\"Thread 0x7fffe16c5700 (LWP 133282)\",name=\"lab_1_v:disk$0\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"2\"},{id=\"7\",target-id=\"Thread 0x7fffe0ec4700 (LWP 133283)\",name=\"lab_1_v:disk$1\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"1\"},{id=\"8\",target-id=\"Thread 0x7fffd796b700 (LWP 133285)\",name=\"lab_1_v:disk$2\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"},{id=\"9\",target-id=\"Thread 0x7fffd716a700 (LWP 133287)\",name=\"lab_1_v:disk$3\",frame={level=\"0\",addr=\"0x00007ffff688d376\",func=\"futex_wait_cancelable\",args=[{name=\"private\",value=\"<optimized out>\"},{name=\"expected\",value=\"0\"},{name=\"futex_word\",value=\"0x55555563b718\"}],file=\"../sysdeps/nptl/futex-internal.h\",fullname=\"/build/glibc-ZN95T4/glibc-2.31/nptl/../sysdeps/nptl/futex-internal.h\",line=\"183\",arch=\"i386:x86-64\"},state=\"stopped\",core=\"3\"}],current-thread-id=\"1\"\n(gdb)\n1430-thread-list-ids\n1430^done,thread-ids={thread-id=\"1\",thread-id=\"2\",thread-id=\"3\",thread-id=\"4\",thread-id=\"5\",thread-id=\"6\",thread-id=\"7\",thread-id=\"8\",thread-id=\"9\"},current-thread-id=\"1\",number-of-threads=\"9\"\n(gdb)\n1431-var-update --all-values *\n1431^done,changelist=[]\n(gdb)\n1432-stack-list-locals 0\n1432^done,locals=[name=\"parent\",name=\"row\"]\n(gdb)\n",
+			"settings":
+			{
+				"buffer_size": 138654,
+				"line_ending": "Unix",
+				"name": "GDB Session",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04) 9.2\nCopyright (C) 2020 Free Software Foundation, Inc.\nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.\nType \"show copying\" and \"show warranty\" for details.\nThis GDB was configured as \"x86_64-linux-gnu\".\nType \"show configuration\" for configuration details.\nFor bug reporting instructions, please see:\n<http://www.gnu.org/software/gdb/bugs/>.\nFind the GDB manual and other documentation resources online at:\n    <http://www.gnu.org/software/gdb/documentation/>.\n\nFor help, type \"help\".\nType \"apropos word\" to search for commands related to \"word\"...\nReading symbols from ./lab_1_v3...\n&\"warning: GDB: Failed to set controlling terminal: \\320\\235\\320\\265\\320\\277\\321\\200\\320\\270\\320\\274\\320\\265\\320\\275\\320\\270\\320\\274\\321\\213\\320\\271 \\320\\272 \\320\\264\\320\\260\\320\\275\\320\\275\\320\\276\\320\\274\\321\\203 \\321\\203\\321\\201\\321\\202\\321\\200\\320\\276\\320\\271\\321\\201\\321\\202\\320\\262\\321\\203 ioctl\\n\"\n[Thread debugging using libthread_db enabled]\nUsing host libthread_db library \"/lib/x86_64-linux-gnu/libthread_db.so.1\".\n[New Thread 0x7ffff2f5f700 (LWP 133161)]\n[New Thread 0x7ffff1326700 (LWP 133204)]\n[New Thread 0x7ffff0b25700 (LWP 133206)]\n[New Thread 0x7fffe3fff700 (LWP 133244)]\na 1 0\na 0 2\na 1 9\na 2 2\nQObject::connect: No such signal QPushButton::triggered() in src/MyMainWindow.cpp:18\nQObject::connect:  (sender name:   'pushButton')\nQObject::connect:  (receiver name: 'MainWindow')\n[New Thread 0x7fffe16c5700 (LWP 133282)]\n[New Thread 0x7fffe0ec4700 (LWP 133283)]\n[New Thread 0x7fffd796b700 (LWP 133285)]\n[New Thread 0x7fffd716a700 (LWP 133287)]\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n[Switching to thread 9 (Thread 0x7fffd716a700 (LWP 133287))](running)\n\nThread 1 \"lab_1_v3\" hit Breakpoint 1, MyMainWindow::keyPressEvent (this=0x555555765d00, event=0x7fffffffe1a0) at src/../inc/MyMainWindow.h:24\n24\t    \tint row = ui->tableView->currentIndex().row();\n",
+			"settings":
+			{
+				"buffer_size": 3804,
+				"line_ending": "Unix",
+				"name": "GDB Console",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "+MyMainWindow * const this = 0x555555765d00\n QKeyEvent * event = 0x7fffffffe1a0\n+const QModelIndex parent = {...}\n int row = 1\n",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix",
+				"name": "GDB Variables",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "MyGraphicView::drawPicture(this = 0x555555d0e2a0,);\nMyGraphicView::changePicture(this = 0x555555d0f7c0,a = {...},b = {...},c = {...},d = {...},e = {...},);\nMyMainWindow::slotDownloadPoints(this = 0x555555761c30,);\nMyMainWindow::qt_static_metacall(_o = 0x555555761c30,_c = QMetaObject::InvokeMetaMethod,_id = 0,_a = 0x7fffffffd5a0,);\nQMetaObject::activate(QObject*, int, int, void**)();\nQAction::triggered(bool)();\nQAction::activate(QAction::ActionEvent)();\n??();\n??();\nQMenu::mouseReleaseEvent(QMouseEvent*)();\nQWidget::event(QEvent*)();\nQMenu::event(QEvent*)();\nQApplicationPrivate::notify_helper(QObject*, QEvent*)();\nQApplication::notify(QObject*, QEvent*)();\nQCoreApplication::notifyInternal2(QObject*, QEvent*)();\nQApplicationPrivate::sendMouseEvent(QWidget*, QMouseEvent*, QWidget*, QWidget*, QWidget**, QPointer<QWidget>&, bool, bool)();\n??();\n??();\nQApplicationPrivate::notify_helper(QObject*, QEvent*)();\nQApplication::notify(QObject*, QEvent*)();\nQCoreApplication::notifyInternal2(QObject*, QEvent*)();\nQGuiApplicationPrivate::processMouseEvent(QWindowSystemInterfacePrivate::MouseEvent*)();\nQGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)();\nQWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)();\n??();\ng_main_context_dispatch();\n??();\ng_main_context_iteration();\nQEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)();\nQEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)();\nQCoreApplication::exec()();\nmain(argc = 1,argv = 0x7fffffffe648,);\n",
+			"settings":
+			{
+				"buffer_size": 1565,
+				"line_ending": "Unix",
+				"name": "GDB Callstack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "MyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nMyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nMyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nMyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nMyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nMyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nMyMainWindow::keyPressEvent(this = 0x555555765d00,event = 0x7fffffffe1a0,);\nQWidget::event(QEvent*)();\nQMainWindow::event(QEvent*)();\nQApplicationPrivate::notify_helper(QObject*, QEvent*)();\nQApplication::notify(QObject*, QEvent*)();\nQCoreApplication::notifyInternal2(QObject*, QEvent*)();\n??();\nQApplicationPrivate::notify_helper(QObject*, QEvent*)();\nQApplication::notify(QObject*, QEvent*)();\nQCoreApplication::notifyInternal2(QObject*, QEvent*)();\nQGuiApplicationPrivate::processKeyEvent(QWindowSystemInterfacePrivate::KeyEvent*)();\nQGuiApplicationPrivate::processWindowSystemEvent(QWindowSystemInterfacePrivate::WindowSystemEvent*)();\nQWindowSystemInterface::sendWindowSystemEvents(QFlags<QEventLoop::ProcessEventsFlag>)();\n??();\ng_main_context_dispatch();\n??();\ng_main_context_iteration();\nQEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>)();\nQEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>)();\nQCoreApplication::exec()();\nmain(argc = 1,argv = 0x7fffffffe648,);\n",
+			"settings":
+			{
+				"buffer_size": 1456,
+				"line_ending": "Unix",
+				"name": "GDB Callstack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "001 -    stopped - MyGraphicView::drawPicture(this = 0x555555d0e2a0);\n002 -    stopped - __GI___poll(fds = 0x7ffff2f5ed28, nfds = 1, timeout = -1);\n003 -    stopped - __GI___poll(fds = 0x5555556ab860, nfds = 2, timeout = 1118);\n004 -    stopped - __GI___poll(fds = 0x5555558240c0, nfds = 6, timeout = -1);\n005 -    stopped - __GI___poll(fds = 0x7fffdc00f4b0, nfds = 4, timeout = -1);\n006 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555562c8c8);\n007 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555562c8c8);\n008 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555562c8c8);\n009 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555562c8c8);\n013 -    stopped - syscall();\n015 -    stopped - __GI___poll(fds = 0x55555593b1f0, nfds = 1, timeout = -1);\n016 -    stopped - __GI___poll(fds = 0x7fff9c0071c0, nfds = 3, timeout = -1);\n017 -    stopped - syscall();\n",
+			"settings":
+			{
+				"buffer_size": 1048,
+				"line_ending": "Unix",
+				"name": "GDB Threads",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "1 - /home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp:0\n2 - /home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp:197\n3 - /home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp:216\n4 - /home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyTableModel.cpp:256\n",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix",
+				"name": "GDB Breakpoints",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "001 -    stopped - MyMainWindow::keyPressEvent(this = 0x555555765d00, event = 0x7fffffffe1a0);\n002 -    stopped - __GI___poll(fds = 0x7ffff2f5ed28, nfds = 1, timeout = -1);\n003 -    stopped - __GI___poll(fds = 0x5555556af430, nfds = 1, timeout = -1);\n004 -    stopped - __GI___poll(fds = 0x5555556bc320, nfds = 2, timeout = -1);\n005 -    stopped - __GI___poll(fds = 0x7fffdc00f9f0, nfds = 4, timeout = -1);\n006 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555563b718);\n007 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555563b718);\n008 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555563b718);\n009 -    stopped - futex_wait_cancelable(private = <optimized out>, expected = 0, futex_word = 0x55555563b718);\n",
+			"settings":
+			{
+				"buffer_size": 855,
+				"line_ending": "Unix",
+				"name": "GDB Threads",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "1 - /home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h:24\n2 - /home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp:236\n",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix",
+				"name": "GDB Breakpoints",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  dele",
+				"Package Control: Disable Package"
+			],
+			[
+				"MarkdownVie",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Toggle",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"new view i",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"new wie",
+				"File: New View into File"
+			],
+			[
+				"nv",
+				"SublimeGDB: Open Variables View"
+			],
+			[
+				"package control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Lint",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 1703.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src"
+	],
+	"file_history":
+	[
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyPoint.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyPoint.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/main.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/my_functions.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/my_functions.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/lab_1_v3.pro",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/calculate.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/calculate.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyTableModel.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyTableModel.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyGraphicView.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyGraphicView.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/ui_mainwindow.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/MyMainWindow.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/MyMainWindow.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/moc_MyMainWindow.cpp",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsscene.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qrect.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/moc_MyGraphicView.cpp",
+		"/build/glibc-ZN95T4/glibc-2.31/math/w_acos_compat.c",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/lab.sublime-project",
+		"/home/nastya/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/nastya/.config/sublime-text-3/Packages/User/Labs_build.sublime-build",
+		"/home/nastya/.config/sublime-text-3/Packages/User/qt.sublime-build",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/lab_1_v3",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/Makefile",
+		"/home/nastya/.config/sublime-text-3/Packages/User/SublimeGDB.sublime-settings",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/src/main.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/src/MyPoint.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/inc/MyPoint.h",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/Makefile",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v2/src/MyGraphicView.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v2/lab_1_v2.pro",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/main_window v1.h",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/lab_1.pro",
+		"/tmp/.fr-RwZSC2/barcode-recognizer/mainWindow.ui",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/Makefile",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/main_window v1.ui",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/calculate.h",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/calculate.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/Mymake",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Трунов тисд 5/io.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_06 v3/src/tree.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/example.dot",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/1.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/src/types_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/inc/types_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v1/src/memory_work.c",
+		"/home/nastya/Рабочий стол/Rk 1 Cprog v2/test6.txt",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_09_2_1/func_tests/readme.txt",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_09_2_1/func_tests/file_11.txt",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_11_01_01/unit_tests/check_main.c",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_12_3_2/graphic_view.py",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_11_01_01/Makefile",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_12_3_2/lab_python_part.py",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/Makefile",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/unit_tests/check_sort_insert.c",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/unit_tests/check_sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_1.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_2.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_3.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/src/file_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_4.txt",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Прога Дани/lab_12_03_01/libarrfilter/makefile",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Прога Дани/lab_12_03_01/libarrio/makefile",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Прога Дани/lab_12_03_01/libarrsort/makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_sort_insert.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_pop_front.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_pop_back.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/inc/struct_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/src/struct_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_reverse.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/unit_tests/check_sum.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/src/calculate.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/unit_tests/check_dvd.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/unit_tests/check_ddx.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/unit_tests/check_main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/unit_tests/check_val.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_2_2/inc/stdin_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_01_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_04_in.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_04_out.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_05_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_05_in.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_05_out.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_06_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_06_in.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_03_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_04_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_03_out.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_03_in.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_02_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_01_out.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_01_in.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_06_out.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_02_out.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/func_tests/pos_02_in.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/inc/struct_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/inc/calculate.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/src/stdin_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/src/calculate.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/src/struct_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/inc/stdin_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 2/inc/file_work.h"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 137.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\");\n",
+			"true",
+			"penDarkYellow",
+			" int",
+			" int ",
+			"cout",
+			"endif",
+			"point_t",
+			"real_t",
+			"  ",
+			"    ",
+			"}*/",
+			"    ",
+			"drawPicture",
+			"changePicture",
+			"solveData",
+			"QGlobal",
+			"3",
+			"a",
+			"DOW",
+			"table",
+			"real_t",
+			"point_t",
+			";// "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"MyPoint",
+			"qreal",
+			"\\t",
+			"qreal",
+			"MyPoint"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2333,
+								2333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138654,
+								138654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeGDB/gdb_session.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3804,
+								3804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1565,
+								1565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 461.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1456,
+								1456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								855,
+								855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				3,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				2,
+				1,
+				3,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.97084548105,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.6":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 39.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/qt.sublime-build",
+	"project": "lab.sublime-project",
+	"replace":
+	{
+		"height": 97.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/matrix.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 695.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 528.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

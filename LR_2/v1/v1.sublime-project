@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "sublimegdb_commandline": "gdb --interpreter=mi ./v1",
+        "sublimegdb_workingdir": "/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/",
+        "sublimegdb_exec_cmd": "-exec-run",
+        "tab_size": 8,
+        "sublimegdb_i_know_how_to_use_gdb_thank_you_very_much": true
+    }
+}
