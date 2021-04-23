@@ -1,4 +1,4 @@
-*/moc_*
-*.o
+*/*/moc_*
+*/*/.o
 *sublime*
-*.stash
+*/*/*.stash
