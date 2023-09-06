@@ -1,0 +1,9 @@
+make -f /home/nastya/Desktop/University/4_semester/Computer_Graph/LR_4/MyQt (1)/makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_4/MyQt (1)'
+make: Leaving directory '/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_4/MyQt (1)'
+ 
+make: /home/nastya/Desktop/University/4_semester/Computer_Graph/LR_4/MyQt (1)/makefile: No such file or directory
+make: *** No rule to make target '/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_4/MyQt (1)/makefile'.
+make: Failed to remake makefile '/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_4/MyQt (1)/makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+ 

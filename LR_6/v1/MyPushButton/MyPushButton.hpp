@@ -1,0 +1,20 @@
+#ifndef MYPUSHBUTTON_HPP
+#define MYPUSHBUTTON_HPP
+
+#include <QPushButton>
+#include "../ObserverInterface.hpp"
+
+class MyPushButton : public QPushButton, public IObject
+{
+Q_OBJECT
+    QColor curColor;
+public:
+    void update(QColor newColor);
+    MyPushButton(QWidget *parent = nullptr);
+    ~MyPushButton();
+    void update(ISubject *subject);
+//public signals:
+//    void triggered();
+};
+
+#endif
